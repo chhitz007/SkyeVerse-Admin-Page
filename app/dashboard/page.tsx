@@ -11,7 +11,9 @@ export default function Dashboard() {
 
     const allowedEmails = [
         "kanchanjyoti405@gmail.com",
-        "chhitizupadhyay123@gmail.com"
+        "chhitizupadhyay123@gmail.com",
+        "gupta.subham30@gmail.com",
+        "akaisuichi007@gmail.com"
     ]
 
     useEffect(() => {
